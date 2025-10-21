@@ -13,3 +13,6 @@ print(f"Idade: {idade} anos")
 
 
 
+nome = input("david:")
+altura = float(input("(1.67):"))
+idade = int(input("28:"))
