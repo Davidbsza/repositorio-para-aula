@@ -20,10 +20,10 @@ while True:
             print("VOCÊ ESTÁ PARTICIPANDO DA NOSSA PROMO TREINA JUNTO!")
             print(f"Faltam {21 - frequencia_seguida} dias para completar a promoção.")
         elif frequencia_seguida == 21:
-            print("🎉 UHUU! AGORA VOCÊ PODE PRESENTEAR UM AMIGO OU AMIGA PARA TREINAR COM VOCÊ! 🎁")
+            print(" UHUU! AGORA VOCÊ PODE PRESENTEAR UM AMIGO OU AMIGA PARA TREINAR COM VOCÊ! ")
         else:
             # Após completar 21, ele continua, mas o contador pode ser reiniciado se quiser
-            print("Você já completou a promoção! Continue treinando firme 💪")
+            print("Você já completou a promoção! Continue treinando firme ")
 
     elif entrada == "n":
         print("QUE BOM VER VOCÊ DE VOLTA. A PARTIR DE AGORA INICIAMOS MAIS UMA CONTAGEM DE 21 DIAS PARA A PROMO TREINA JUNTO.")
