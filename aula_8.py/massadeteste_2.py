@@ -1,6 +1,6 @@
 from faker import Faker
 import csv
-
+import random
 fake = Faker ("pt_br")
 
 nome = fake.name()
